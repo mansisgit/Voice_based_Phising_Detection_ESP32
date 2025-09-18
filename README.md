@@ -53,6 +53,7 @@
  *    - Vibration provides discrete alert without disturbing others
 
 
-![Alt Text]("C:\Users\mansi tukaram chate\OneDrive\Pictures\Screenshots\Screenshot 2025-09-18 212711.png")
+![Alt Text](<img width="757" height="745" alt="Screenshot 2025-09-18 212711" src="https://github.com/user-attachments/assets/8e73abc3-1079-40ff-929a-6862ae96aa65" />
+)
 
 
