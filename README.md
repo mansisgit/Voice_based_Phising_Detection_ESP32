@@ -51,4 +51,7 @@
  *    - No internet connection required (offline operation)
  *    - Suitable for elderly care, personal security, ATM areas
  *    - Vibration provides discrete alert without disturbing others
- */
+
+
+ ![Uploading Screenshot 2025-09-18 212711.png…]()
+
