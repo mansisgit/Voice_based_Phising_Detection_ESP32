@@ -21,26 +21,26 @@
  *    - ESP32 GND ↔ VC-02 GND ↔ Common Ground
 
    
- * 3. Software setup:
+  3. Software setup:
  *    - Install ESP32 board package in Arduino IDE
  *    - No additional libraries required (uses built-in HardwareSerial)
  *    - Upload this code to ESP32
 
    
- * 4. VC-02 Voice Module Training:
+  4. VC-02 Voice Module Training:
  *    - Train the VC-02 module with the 20 phishing keywords
  *    - Refer to VC-02 documentation for training procedure
  *    - Test each keyword to ensure proper recognition
 
    
- * 5. Testing:
+  5. Testing:
  *    - Open Serial Monitor at 115200 baud
  *    - Verify initialization messages
  *    - Speak phishing keywords to test vibration response
  *    - Verify 5-second vibration pattern: Long-Short-Short-Long-Long
 
    
- * 6. Power Requirements:
+  6. Power Requirements:
  *    - ESP32: 3.3V, ~200mA during operation
  *    - VC-02: 3.3V, ~50mA
  *    - Vibration Motor: 3-5V, ~100mA through transistor
