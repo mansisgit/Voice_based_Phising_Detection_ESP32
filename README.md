@@ -53,5 +53,6 @@
  *    - Vibration provides discrete alert without disturbing others
 
 
- ![Uploading Screenshot 2025-09-18 212711.png…]()
+![Alt Text]("C:\Users\mansi tukaram chate\OneDrive\Pictures\Screenshots\Screenshot 2025-09-18 212711.png")
+
 
